@@ -1,1 +1,1 @@
-return "Loader Fix 2 Lolol"
+return "Anti HTTP SpTamper"
