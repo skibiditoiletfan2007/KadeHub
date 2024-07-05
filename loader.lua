@@ -1,1 +1,11 @@
-loadstring(game:HttpGet(('https://gist.githubusercontent.com/skibiditoiletfan2007/9c8acec1b350bb2a27f4101e2eec803e/raw/bd6fe461cb8fe7b11c53f71999759b1fc5b5e649/TheCaptainsGoDownWithTheirShip.lua'),true))()
+if _G.KadeHubLoaded ~= true then
+    _G.KadeHubLoaded = true
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletfan2007/Work/main/latest.lua"))()
+else
+    game.StarterGui:SetCore("SendNotification",  {
+        Title = "KadeHub";
+        Text = "KadeHub is already executed!";
+        Icon = "rbxassetid://17893547380";
+        Duration = 15;
+    })
+end
