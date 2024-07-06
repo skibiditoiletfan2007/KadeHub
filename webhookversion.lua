@@ -1,1 +1,1 @@
-return "Client Id Logging (For Blacklist)"
+return "Skibidi Toilet"
