@@ -1,1 +1,1 @@
-return "Anti HTTP SpTamper"
+return "Client Id Logging (For Blacklist)"
