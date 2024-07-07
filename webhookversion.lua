@@ -1,1 +1,1 @@
-return "I think i broke settings"
+return "Loader Auto report"
