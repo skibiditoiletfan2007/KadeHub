@@ -1,1 +1,1 @@
-return "Evil GetService 2"
+return "I fucking hate mobile"
