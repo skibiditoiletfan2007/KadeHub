@@ -1,1 +1,1 @@
-return "I fucking hate mobile"
+return "Im crashing out"
