@@ -1,1 +1,1 @@
-return "i think i fixed it"
+return "No man is fit to rule a world alone"
