@@ -1,6 +1,6 @@
 if _G.KadeHubLoaded ~= true then
     _G.KadeHubLoaded = true
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletfan2007/Work/main/latest.lua"))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletfan2007/KadeHub/main/latest.lua"))()
 else
     game.StarterGui:SetCore("SendNotification",  {
         Title = "KadeHub";
